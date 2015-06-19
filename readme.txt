@@ -20,3 +20,5 @@ In the class Process:
 
 
 Before call the last two functions,the first one must be called.
+
+This repository has been migrated to my new account, conndots/KMeansCluster,https://github.com/conndots/KMeansCluster
